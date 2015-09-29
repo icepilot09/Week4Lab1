@@ -1,0 +1,45 @@
+.tweet-button {
+    height: 38px;
+    border: 5px solid #7FFFD4;
+    border-radius: 2px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 20px;
+    cursor: pointer;
+    margin: 0 0 0 14px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+.row .tweet-user {
+    width: 200px;
+}
+
+input[type="text"]{
+    width: 400px;
+    height: 38px;
+    border: 5px solid #7FFFD4;
+    padding: 0 20px;
+    outline: none;
+    font-size: 17px;
+    margin: 0 0 0 14px;
+    
+}
+
+h1 {
+    margin: 0 0 0 14px;
+    padding: 0 14px;
+}
+
+.container h1{
+    color: #7FFFD4;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 70px;
+}
+
+.container {
+    background-color: #F0F8FF;
+}
