@@ -1,4 +1,4 @@
-.tweet-button {
+button{
     height: 38px;
     border: 5px solid #7FFFD4;
     border-radius: 2px;
@@ -8,13 +8,13 @@
     padding: 0 20px;
     cursor: pointer;
     margin: 0 0 0 14px;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
 }
 
 .row {
     margin-bottom: 20px;
 }
-.row .tweet-user {
+input[type="tweet-user"] {
     width: 200px;
 }
 
